@@ -6,7 +6,14 @@ This project is the weekly challenge for week 18 of the Data Science Bootcamp. I
 
 ### Purpose
 
-Create an analysis for clients who are preparing to get into the cryptocurrency market. The analysis includes cryptocurrencies on the trading market and how they could be grouped to create a classification system.
+Create an analysis for clients who are preparing to get into the cryptocurrency market. The analysis includes cryptocurrencies on the trading market and how they could be grouped to create a classification system.  To reduce overfitting, Principal Component Analysis (PCA) was used.
+
+This project had of 4 deliverables:
+
+- Deliverable 1: Preprocessing the Data for PCA
+- Deliverable 2: Reducing Data Dimensions Using PCA
+- Deliverable 3: Clustering Cryptocurrencies Using K-means
+- Deliverable 4: Visualizing Cryptocurrencies Results
 
 ## Results
 
